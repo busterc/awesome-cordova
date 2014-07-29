@@ -2,6 +2,9 @@
 
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
+## FAQ
+- [What is Cordova, what is PhoneGap, what is the difference?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
+
 ## Official
 - [Documentation](https://cordova.apache.org/docs/en/edge/index.html)
 - [News Feed RSS](https://cordova.apache.org/rss.xml)
@@ -24,6 +27,7 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 - [Kendo UI Core](http://www.telerik.com/kendo-ui/open-source-core)
 - [Kendo UI](http://www.telerik.com/kendo-ui)
 - [Sencha Touch](http://www.sencha.com/products/touch/)
+- [Mobile Angular UI](http://mobileangularui.com/)
 
 ## Icons
 - [Icons8](http://icons8.com/)

@@ -10,7 +10,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [News Feed RSS](https://cordova.apache.org/rss.xml)
 
 ## Plugins
-- [Apache](http://plugins.cordova.io/)
+- [Apache](http://cordova.apache.org/plugins/)
 - [PlugReg](http://plugreg.com/)
 - [Telerik Verified](http://plugins.telerik.com/)
 

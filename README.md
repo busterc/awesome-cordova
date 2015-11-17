@@ -28,6 +28,7 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 - [Kendo UI](http://www.telerik.com/kendo-ui)
 - [Sencha Touch](http://www.sencha.com/products/touch/)
 - [Mobile Angular UI](http://mobileangularui.com/)
+- [Framework7] (http://www.idangero.us/framework7/)
 
 ## Icons
 - [Icons8](http://icons8.com/)

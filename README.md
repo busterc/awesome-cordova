@@ -21,7 +21,6 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 
 - [Ionic Framework](http://ionicframework.com/)
 - [Onsen UI](http://onsenui.io/)
-- [ChocolateChip-UI](http://chocolatechip-ui.com/)
 - [Ratchet](http://goratchet.com/)
 - [jQuery Mobile](http://jquerymobile.com/)
 - [Topcoat](http://topcoat.io/)
@@ -29,7 +28,7 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 - [Kendo UI](http://www.telerik.com/kendo-ui)
 - [Sencha Touch](http://www.sencha.com/products/touch/)
 - [Mobile Angular UI](http://mobileangularui.com/)
-- [Framework7] (http://www.idangero.us/framework7/)
+- [Framework7](http://www.idangero.us/framework7/)
 
 ## Icons
 - [Icons8](http://icons8.com/)

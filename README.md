@@ -6,8 +6,9 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [What is Cordova, what is PhoneGap, what is the difference?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
 
 ## Official
-- [Documentation](https://cordova.apache.org/docs/en/edge/index.html)
-- [News Feed RSS](https://cordova.apache.org/rss.xml)
+- [Documentation](https://cordova.apache.org/docs/en/latest/)
+- [News Feed RSS](https://cordova.apache.org/feed.xml)
+- [Twitter @apachecordova](https://twitter.com/apachecordova)
 
 ## Plugins
 - [Apache](http://cordova.apache.org/plugins/)

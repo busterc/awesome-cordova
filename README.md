@@ -12,32 +12,32 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 ## Plugins
 - [Apache](http://cordova.apache.org/plugins/)
+- [NPM](https://www.npmjs.com/search?q=cordova-plugin)
 - [PlugReg](http://plugreg.com/)
 - [Telerik Verified](http://plugins.telerik.com/cordova)
-- [On NPM](https://www.npmjs.com/search?q=cordova-plugin)
 
 ## UI Frameworks
 
 _Compare these and more at [PropertyCross](http://propertycross.com/)_
 
+- [Framework7](http://www.idangero.us/framework7/)
 - [Ionic Framework](http://ionicframework.com/)
-- [Onsen UI](http://onsenui.io/)
-- [Ratchet](http://goratchet.com/)
 - [jQuery Mobile](http://jquerymobile.com/)
-- [Topcoat](http://topcoat.io/)
 - [Kendo UI Core](http://www.telerik.com/kendo-ui/open-source-core)
 - [Kendo UI](http://www.telerik.com/kendo-ui)
-- [Sencha Touch](http://www.sencha.com/products/touch/)
 - [Mobile Angular UI](http://mobileangularui.com/)
-- [Framework7](http://www.idangero.us/framework7/)
+- [Onsen UI](http://onsenui.io/)
+- [Ratchet](http://goratchet.com/)
+- [Sencha Touch](http://www.sencha.com/products/touch/)
+- [Topcoat](http://topcoat.io/)
 
 ## Icons
 - [Icons8](http://icons8.com/)
 - [Ionicons](http://ionicons.com/)
 - Generators
+  - [cordova-gen-icon](https://www.npmjs.org/package/cordova-gen-icon)
+  - [cordova-icon](https://www.npmjs.org/package/cordova-icon)
 	- [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) (splash screens too)
-	- [cordova-gen-icon](https://www.npmjs.org/package/cordova-gen-icon)
-	- [cordova-icon](https://www.npmjs.org/package/cordova-icon)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

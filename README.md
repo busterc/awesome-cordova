@@ -16,6 +16,9 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [PlugReg](http://plugreg.com/)
 - [Telerik Verified](http://plugins.telerik.com/cordova)
 
+### Tools
+- [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed)
+
 ## UI Frameworks
 - [Framework7](http://www.idangero.us/framework7/)
 - [Ionic Framework](http://ionicframework.com/)

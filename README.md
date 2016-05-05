@@ -17,9 +17,6 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [Telerik Verified](http://plugins.telerik.com/cordova)
 
 ## UI Frameworks
-
-_Compare these and more at [PropertyCross](http://propertycross.com/)_
-
 - [Framework7](http://www.idangero.us/framework7/)
 - [Ionic Framework](http://ionicframework.com/)
 - [jQuery Mobile](http://jquerymobile.com/)
@@ -34,10 +31,41 @@ _Compare these and more at [PropertyCross](http://propertycross.com/)_
 ## Icons
 - [Icons8](http://icons8.com/)
 - [Ionicons](http://ionicons.com/)
-- Generators
-  - [cordova-gen-icon](https://www.npmjs.org/package/cordova-gen-icon)
-  - [cordova-icon](https://www.npmjs.org/package/cordova-icon)
-	- [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) (splash screens too)
+- [Material Icons](https://design.google.com/icons/)
+
+## Tools
+  - Generators
+    - App
+      - [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova)
+      - [generator-cordova](https://github.com/dangeross/generator-cordova)
+      - [generator-cordova-react](https://github.com/jackong/generator-cordova-react)
+      - [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
+      - [generator-cordova-www](https://github.com/busterc/generator-cordova-www)
+      - [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic)
+      - [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova)
+      - [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova)
+      - [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova)
+    - Icons + Splash Screens
+      - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
+    - Icons
+      - [cordova-gen-icon](https://bitbucket.org/ntakimura/cordova-gen-icon)
+      - [cordova-icon](https://github.com/AlexDisler/cordova-icon)
+      - [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm)
+      - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
+    - Splash Screens
+      - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
+      - [cordova-splash](https://github.com/AlexDisler/cordova-splash)
+      - [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm)
+    - Plugin
+      - [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin)
+      - [generator-cordova-plugin-bb10](https://github.com/blackberry/generator-cordova-plugin-bb10)
+      - [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed)
+  - Testing
+    - [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
+    - [ripple](https://github.com/ripple-emulator/ripple)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

@@ -3,7 +3,7 @@
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
 ## FAQ
-- [What is Cordova, what is PhoneGap, what is the difference?](http://ionicframework.com/blog/what-is-cordova-phonegap/)
+- [What is Cordova, what is PhoneGap, what is the difference?](http://blog.ionic.io/what-is-cordova-phonegap/)
 
 ## Official
 - [Documentation](https://cordova.apache.org/docs/en/latest/)
@@ -13,25 +13,25 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Plugins
 - [Apache](http://cordova.apache.org/plugins/)
 - [NPM](https://www.npmjs.com/search?q=cordova-plugin)
-- [PlugReg](http://plugreg.com/)
+- [PlugReg](http://www.plugreg.com/)
 - [Telerik Verified](http://plugins.telerik.com/cordova)
 
 ## UI Frameworks
-- [Framework7](http://www.idangero.us/framework7/)
+- [Framework7](http://idangero.us/framework7/)
 - [Ionic Framework](http://ionicframework.com/)
 - [jQuery Mobile](http://jquerymobile.com/)
 - [Kendo UI Core](http://www.telerik.com/kendo-ui/open-source-core)
 - [Kendo UI](http://www.telerik.com/kendo-ui)
 - [Mobile Angular UI](http://mobileangularui.com/)
-- [Onsen UI](http://onsenui.io/)
+- [Onsen UI](http://onsen.io/)
 - [Ratchet](http://goratchet.com/)
-- [Sencha Touch](http://www.sencha.com/products/touch/)
+- [Sencha Touch](https://www.sencha.com/products/touch/)
 - [Topcoat](http://topcoat.io/)
 
 ## Icons
-- [Icons8](http://icons8.com/)
+- [Icons8](https://icons8.com/)
 - [Ionicons](http://ionicons.com/)
-- [Material Icons](https://design.google.com/icons/)
+- [Material Icons](https://material.io/icons/)
 
 ## Tools
   - Generators
@@ -49,7 +49,6 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
     - Icons
-      - [cordova-gen-icon](https://bitbucket.org/ntakimura/cordova-gen-icon)
       - [cordova-icon](https://github.com/AlexDisler/cordova-icon)
       - [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm)
       - [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)

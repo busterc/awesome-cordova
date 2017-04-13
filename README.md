@@ -69,7 +69,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   - Building
     - [cordova-xml](https://github.com/mifi/cordova-xml)
   - Logging
-    - [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender) - access your logs from the cloud
+    - [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

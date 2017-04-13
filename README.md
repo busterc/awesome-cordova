@@ -17,13 +17,13 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [Telerik Verified](http://plugins.telerik.com/cordova)
 
 ## UI Frameworks
-- [Framework7](http://idangero.us/framework7/)
+- [Framework7](http://framework7.io)
 - [Ionic Framework](http://ionicframework.com/)
 - [jQuery Mobile](http://jquerymobile.com/)
 - [Kendo UI Core](http://www.telerik.com/kendo-ui/open-source-core)
 - [Kendo UI](http://www.telerik.com/kendo-ui)
 - [Mobile Angular UI](http://mobileangularui.com/)
-- [Onsen UI](http://onsen.io/)
+- [Onsen UI](https://onsen.io/)
 - [Ratchet](http://goratchet.com/)
 - [Sencha Touch](https://www.sencha.com/products/touch/)
 - [Topcoat](http://topcoat.io/)

@@ -66,6 +66,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   - Testing
     - [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
     - [ripple](https://github.com/ripple-emulator/ripple)
+  - Building
+    - [cordova-xml](https://github.com/mifi/cordova-xml)
   - Logging
     - [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender) - access your logs from the cloud
 

@@ -10,6 +10,9 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 - [News Feed RSS](https://cordova.apache.org/feed.xml)
 - [Twitter @apachecordova](https://twitter.com/apachecordova)
 
+## Learning
+- [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
+
 ## Plugins
 - [Apache](http://cordova.apache.org/plugins/)
 - [NPM](https://www.npmjs.com/search?q=cordova-plugin)

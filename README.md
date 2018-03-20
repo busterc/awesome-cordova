@@ -33,12 +33,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic)
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
-* [Kendo UI](https://www.telerik.com/kendo-ui)
-* [Mobile Angular UI](http://mobileangularui.com/)
 * [Onsen UI](https://onsen.io/)
-* [Ratchet](http://goratchet.com/)
-* [Sencha Touch](https://www.sencha.com/products/touch/)
-* [Topcoat](http://topcoat.io/)
+* ### Pay to Use
+  * [Kendo UI](https://www.telerik.com/kendo-ui)
+  * [Sencha Touch](https://www.sencha.com/products/touch/)
+* ### Outdated
+  * [Mobile Angular UI](http://mobileangularui.com/)
+  * [Ratchet](http://goratchet.com/)
+  * [Topcoat](http://topcoat.io/)
 
 ## Icons
 

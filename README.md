@@ -4,7 +4,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 ## FAQ
 
-* [What is Cordova, what is PhoneGap, what is the difference?](http://blog.ionic.io/what-is-cordova-phonegap/)
+* [What is Cordova, what is PhoneGap, what is the difference?](https://blog.ionicframework.com/what-is-cordova-phonegap/)
 
 ## Official
 
@@ -28,7 +28,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * [Framework7](https://framework7.io)
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
-* [Ionic Framework](http://ionicframework.com/)
+* [Ionic Framework](https://ionicframework.com/)
   * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic)
 * [jQuery Mobile](http://jquerymobile.com/)

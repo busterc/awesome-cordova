@@ -21,8 +21,6 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 * [Apache](http://cordova.apache.org/plugins/)
 * [NPM](https://www.npmjs.com/search?q=cordova-plugin)
-* [PlugReg](http://www.plugreg.com/)
-* [Telerik Verified](https://plugins.telerik.com/cordova)
 
 ## UI Frameworks
 

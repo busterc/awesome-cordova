@@ -88,6 +88,10 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * Logging
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
 
+## Chat & In App Messaging
+  * [Applozic Cordova Chat Plugin](https://github.com/AppLozic/Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin)
+
+
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

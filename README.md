@@ -45,8 +45,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 * [Framework7 Icons](https://framework7.io/icons/)
 * [Icons8](https://icons8.com/)
-* [Ionicons](http://ionicons.com/)
-* [Material Icons](https://material.io/icons/)
+* [Ionicons](https://ionicons.com/)
+* [Material Icons](https://material.io/tools/icons/)
 
 ## Tools
 

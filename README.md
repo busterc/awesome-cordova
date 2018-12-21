@@ -83,6 +83,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * Building
   * [cordova-xml](https://github.com/mifi/cordova-xml)
   * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch)
+  * [xavtool](https://github.com/gabrielrobert/xavtool)
 * Logging
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
 

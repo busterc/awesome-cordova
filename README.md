@@ -81,6 +81,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
   * [ripple](https://github.com/ripple-emulator/ripple)
 * Building
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config)
   * [cordova-xml](https://github.com/mifi/cordova-xml)
   * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch)
   * [xavtool](https://github.com/gabrielrobert/xavtool)
